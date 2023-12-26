@@ -11,7 +11,7 @@ Make sure you have Python and PyQt5 installed on your machine.
 pip install PyQt5
 
 
-How to Use :-
+## How to Use :-
 1. Upon launching the application, you will see a window with two dropdowns (comboboxes) for selecting input values (0 or 1).
 2. Select input values from the comboboxes.
 3. Click on one of the three buttons: NOR, NAND, or XOR to perform the corresponding logic operation.
